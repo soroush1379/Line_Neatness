@@ -5,3 +5,5 @@ The resulting vaue can be used as a rating to compare the neatness, or straightn
 This program was written for the Praxis course in the engineering science program. The program was used to compare the 
 neatness of two drawings by comparing the said standard deviation. The line with the lower standard deviation is the winner
 in the comparison.
+
+Note that in order for the program to proceed to the next step, the user must press the 'Space' key.
